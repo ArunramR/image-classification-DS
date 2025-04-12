@@ -13,4 +13,4 @@ Now, you can simply run `organize_flowers17.py` script to download and organize 
 
 * `python organize_flowers17.py` - Downloads Flowers17 Dataset and organizes training set in disk.
 * `python global.py` - Extracts global features from training set and stores it in disk.
-* `python train_test.py` - Predicts the image class using the trained model.
+* `python train_test.py` - Predicts the image class using the trained model
